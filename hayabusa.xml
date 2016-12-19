@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="CyanogenMod/android_device_sony_hayabusa" path="device/sony/hayabusa" remote="github" />
-  <project name="CyanogenMod/android_device_sony_blue-common" path="device/sony/blue-common" remote="github" />
-  <project name="CyanogenMod/android_kernel_sony_msm8x60" path="kernel/sony/msm8x60" remote="github" />
+  <project name="AFLB/cm_device_sony_hayabusa" path="device/sony/hayabusa" remote="github" />
+  <project name="AFLB/cm_device_sony_blue-common" path="device/sony/blue-common" remote="github" />
+  <project name="TheVisceras/stock_sony_msm8x60" path="kernel/sony/msm8x60" revision="9.2.A.1.215" remote="github" />
 </manifest>
