@@ -3,7 +3,9 @@
   <remove-project name="CyanogenMod/android_hardware_qcom_display" />
   <remove-project name="CyanogenMod/android_hardware_qcom_media" />
   <remove-project name="CyanogenMod/android_external_tinycompress" />
+  <remove-project name="CyanogenMod/android_system_core" />
   <project name="AFLB/cm_hardware_qcom_display" path="hardware/qcom/display-caf/msm8960" revision="cm-13.0-caf-8960" remote="github" />
   <project name="AFLB/cm_hardware_qcom_media" path="hardware/qcom/media-caf/msm8960" revision="cm-13.0-caf-8960" remote="github" />
   <project name="AFLB/cm_external_tinycompress" path="external/tinycompress" remote="github" />
+  <project name="AFLB/cm_system_core" path="system/core" remote="github" />
 </manifest>
